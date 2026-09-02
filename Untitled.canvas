@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ec7121439fa21351","x":-520,"y":-200,"width":250,"height":60,"type":"text","text":"tth5h56h"},
+		{"id":"70eecf4163c6fd1d","x":-460,"y":-20,"width":250,"height":60,"color":"2","type":"text","text":"thyhyht"}
+	],
+	"edges":[
+		{"id":"800d87c91d9f4811","fromNode":"ec7121439fa21351","fromSide":"bottom","toNode":"70eecf4163c6fd1d","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
